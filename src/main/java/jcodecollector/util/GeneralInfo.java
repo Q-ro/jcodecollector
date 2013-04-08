@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright 2006-2013 Alessandro Cocco.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -29,7 +29,7 @@ public class GeneralInfo {
     public static final String APPLICATION_VERSION = "2.5";
 
     /** Years of copyright. */
-    public static final String COPYRIGHT_YEARS = "� 2008-2011";
+    public static final String COPYRIGHT_YEARS = "© 2008-2011";
 
     /** My blog address. */
     public static final String BLOG_URL = "http://alessandro-cocco.blogspot.com";
