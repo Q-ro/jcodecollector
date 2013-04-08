@@ -4,4 +4,4 @@ Have updated the build system, but it seems a later build of macwidgets was used
 
 ## Code
 
-The mac specific code won't compile on other platforms, should look into how to make the build system work everywhere without exception by replace those Apple specific  JVM libraries.
+The mac specific code won't compile on other platforms, should look into how to make the build system work everywhere without exception by replace those Apple specific JVM libraries.

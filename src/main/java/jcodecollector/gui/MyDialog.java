@@ -58,7 +58,7 @@ import jcodecollector.data.DBMS;
 import jcodecollector.document.EditorValidator;
 import jcodecollector.document.LimitedPlainDocument;
 import jcodecollector.document.LimitedSyntaxDocument;
-import jcodecollector.gui.images.Icons;
+import jcodecollector.gui.Icons;
 import jcodecollector.listener.CategoryListener;
 import jcodecollector.listener.SnippetListener;
 import jcodecollector.util.ApplicationConstants;

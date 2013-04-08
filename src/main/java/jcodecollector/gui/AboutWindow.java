@@ -22,7 +22,7 @@ import javax.swing.JLabel;
 import javax.swing.WindowConstants;
 import javax.swing.border.EmptyBorder;
 
-import jcodecollector.gui.images.Icons;
+import jcodecollector.gui.Icons;
 import jcodecollector.util.GeneralInfo;
 
 /**
