@@ -5,7 +5,7 @@ jCodeCollector was a simple snippets manager for Mac OS X, Windows and Linux ori
 
 I forked the repo at it's last stable version (2.5) which was released in January 2011.
 
-I intend on initially making some fairly simple changes to the code base to clean up it's current design and behavior, but in future wish to make this into a more robust and potentially extendable application. I see a major amount of potential in it.
+I intend on initially making some fairly simple changes to the code base to clean up it's current design and behavior, but in future wish to make this into a more robust and potentially extendible application.
 
 ## Dependencies
 
