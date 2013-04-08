@@ -1,4 +1,4 @@
-﻿/*
+/*
  * Copyright 2006-2013 Alessandro Cocco.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -25,12 +25,12 @@ import java.util.List;
 import jcodecollector.common.bean.Snippet;
 import jcodecollector.data.DBMS;
 
-import org.jdom.Document;
-import org.jdom.Element;
-import org.jdom.JDOMException;
-import org.jdom.input.SAXBuilder;
-import org.jdom.output.Format;
-import org.jdom.output.XMLOutputter;
+import org.jdom2.Document;
+import org.jdom2.Element;
+import org.jdom2.JDOMException;
+import org.jdom2.input.SAXBuilder;
+import org.jdom2.output.Format;
+import org.jdom2.output.XMLOutputter;
 
 /**
  * Classe che si occupa di leggere/scrivere file XML.

@@ -22,10 +22,28 @@
         <version>10.9.1.0</version>
     </dependency>
     
-    <dependency>
+<!--     <dependency>
         <groupId>com.kenai.nbpwr</groupId>
         <artifactId>com-explodingpixels-mac_widgets</artifactId>
         <version>0.9.5-201002241900</version>
+    </dependency> -->
+
+    <dependency>
+        <groupId>com.explodingpixels</groupId>
+        <artifactId>mac_widgets</artifactId>
+        <version>0.9.5</version>
+    </dependency>
+
+    <dependency>
+        <groupId>org.jdom</groupId>
+        <artifactId>jdom</artifactId>
+        <version>2.0.2</version>
+    </dependency>
+
+    <dependency>
+        <groupId>com.fifesoft</groupId>
+        <artifactId>rsyntaxtextarea</artifactId>
+        <version>2.0.6</version>
     </dependency>
 
   </dependencies>
