@@ -39,3 +39,5 @@ _ReSharper*/
 *.war
 *.ear
 
+# random mac file
+.DS_Store
